@@ -30,5 +30,5 @@
 #### 联系我们
 - Email: dazhangkeji@163.com
 
-![](./img/wechat.png =200x150)
+![](./img/wechat.png)
 

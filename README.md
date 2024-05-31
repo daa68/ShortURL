@@ -1,4 +1,6 @@
 ### 短链接系统
+#### 下载试用
+https://github.com/daa68/ShortURL/releases
 #### 特点
 - Go语言开发，不需数据库
 - 使用Excel文件配置短链接 

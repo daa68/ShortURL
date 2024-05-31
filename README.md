@@ -29,6 +29,7 @@
 *`x`表示短链接数量
 #### 联系我们
 - Email: dazhangkeji@163.com
+- 微信号：dazhang32
 
 ![](./img/wechat.png)
 
